@@ -10,6 +10,7 @@ body {
   background-color: #55828b;
   font-family: "Ubuntu", sans-serif;
   display: flex;
+  flex-direction: column;
   flex-wrap: wrap;
   gap: 20px;
   justify-content: center;
